@@ -8,6 +8,7 @@
 * [观察者模式](observer/README.md)
 * [装饰器模式](decorate/README.md)
 * [工厂模式](factory/README.md)
+* [单例模式](singleton/README.md)
 
 # OO的原则：
 
