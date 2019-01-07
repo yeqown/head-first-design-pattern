@@ -10,6 +10,7 @@
 * [工厂模式](factory/README.md)
 * [单例模式](singleton/README.md)
 * [命令模式](command/README.md)
+* [适配器模式](adaptor/README.md)
 
 # OO的原则：
 
