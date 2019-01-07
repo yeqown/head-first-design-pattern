@@ -1,6 +1,6 @@
 # Head First Design Pattern
 
-所有的例子都源于《[Head First Design Pattern](#)》。用Golang或者C++来书写了一遍，便于理解OO设计模式和应用于Golang编程开发中。
+所有的例子都源于《[Head First Design Pattern](#)》。用Golang，C++或者Python来书写了一遍，便于理解OO设计模式和应用于Golang编程开发中。
 
 # 目录
 
@@ -9,6 +9,7 @@
 * [装饰器模式](decorate/README.md)
 * [工厂模式](factory/README.md)
 * [单例模式](singleton/README.md)
+* [命令模式](command/README.md)
 
 # OO的原则：
 
