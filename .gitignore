@@ -1,4 +1,6 @@
+.DS_Store
 .vscode
 a.out
 bin
 __pycache__
+*.class
