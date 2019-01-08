@@ -1,6 +1,6 @@
 public abstract class CaffeineBeverageWithHook {
     // 这里是算法骨架
-    void prepareRecipe() {
+    final void prepareRecipe() {
         this.boilWater();
         this.brew();
         this.pourInCup();
