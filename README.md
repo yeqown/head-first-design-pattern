@@ -14,6 +14,7 @@
 * [外观模式](facade/README.md)
 * [模板模式](template/README.md)
 * [迭代器模式](iterator/README.md)
+* [组合器模式](composite/README.md)
 
 # OO的原则
 
@@ -26,6 +27,7 @@
 * 最少知识，不要让太多的类耦合在一起。[原则](/facade/README.md#最少知识原则)
 * 底层注册到高层，高层自行决定调用。[原则](/template/README.md#好莱坞原则)
 * 单一责任原则。[原则](/iterator/README.md#单一责任原则)
+* 类应该只有一个改变的理由
 
 ### 关于多语言书写
 
