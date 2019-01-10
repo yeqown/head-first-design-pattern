@@ -15,6 +15,7 @@
 * [模板模式](template/README.md)
 * [迭代器模式](iterator/README.md)
 * [组合器模式](composite/README.md)
+* [状态模式](state/README.md)
 
 # OO的原则
 
